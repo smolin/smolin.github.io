@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Steve Molin's Spot on GitHub Pages
+
+More soon?
+
+What Github gave me to start with:
 
 You can use the [editor on GitHub](https://github.com/smolin/smolin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
