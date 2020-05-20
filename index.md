@@ -2,6 +2,8 @@
 
 More soon?
 
+Link to this page published: https://smolin.github.io/
+
 What Github gave me to start with:
 
 You can use the [editor on GitHub](https://github.com/smolin/smolin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
